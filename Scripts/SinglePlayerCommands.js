@@ -8,7 +8,7 @@
  * @version:	v1.0.10
  * @website:	https://raw.githubusercontent.com/OfficialOrbitron/ModPE/master/Scripts/SinglePlayerCommands.js
  *
- * Testet with:
+ * Tested with:
  * MCPE: v0.9.5
  * BlockLauncher: v1.7.9
  *
